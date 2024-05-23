@@ -315,6 +315,8 @@ This section contains detailed Twitter threads that illustrate various instances
 16. **Case Study #16**: [Precision Buy Algorithm - View Thread](https://x.com/rauItrades/status/1719392379776758111)
 17. **Case Study #17**: [Precision Buy Algorithm - View Thread](https://x.com/rauItrades/status/1665724472509489153)
 18. **Case Study #18**: [Precision Buy Algorithm - View Thread](https://x.com/rauItrades/status/1701648625942823328)
+19. **Case Study #19**: [Precision Buy Algorithm - View Thread](https://x.com/rauItrades/status/1790431830908477912)
+
 
 This is a non-exhaustive list of digestible threads published from the researcher publicly documenting arbitrage selections in real time.
 
