@@ -321,6 +321,14 @@ This section contains detailed Twitter threads that illustrate various instances
 21. **Case Study #21**: [Precision Buy Algorithm - View Thread](https://x.com/rauItrades/status/1800979221155881206)
 22. **Case Study #22**: [Precision Buy Algorithm - View Thread](https://x.com/rauItrades/status/1806322176234278947)
 
+This section contains detailed Twitter threads that illustrate various instances of "Singular Point Hard Stop Order" executed in real-time. These threads provide insights into the specific moments and conditions under which these algorithms are triggered, showcasing their effectiveness in the live market:
+
+1. **Case Study #1**: [Singular Point Hard Stop Order - View Thread](https://x.com/rauItrades/status/1806729697952465164)
+
+This section contains detailed Twitter threads that illustrate various instances of "Automated Short Orders" executed in real-time. These threads provide insights into the specific moments and conditions under which these algorithms are triggered, showcasing their effectiveness in the live market:
+
+1. **Case Study #1**: [Automated Short Orders - View Thread](https://x.com/rauItrades/status/1806754622008389809)
+
 
 This is a non-exhaustive list of digestible threads published from the researcher publicly documenting arbitrage selections in real time.
 
