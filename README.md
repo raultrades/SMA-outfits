@@ -257,7 +257,7 @@ This table lists (and is not limited to) the ticker symbols first, followed by t
 | DAX    | German Stock Index |
 | BABA   | Alibaba Group Holding Ltd |
 | TSM    | Taiwan Semiconductor Manufacturing Co. Ltd |
-| AAPD   | Australian Associated Press |
+| AAPD   | Apple Inc. Direxion Daily Bear 1X Shares |
 | AAPU   | Apple Inc. Direxion Daily 2X Shares |
 | TSLT   | T-REX 2X Long Tesla Daily Target ETF |
 | TSLQ   | AXS Tesla Bear Daily ETF |
@@ -320,6 +320,7 @@ This section contains detailed Twitter threads that illustrate various instances
 20. **Case Study #20**: [Precision Buy Algorithm - View Thread](https://x.com/rauItrades/status/1798025296303812840)
 21. **Case Study #21**: [Precision Buy Algorithm - View Thread](https://x.com/rauItrades/status/1800979221155881206)
 22. **Case Study #22**: [Precision Buy Algorithm - View Thread](https://x.com/rauItrades/status/1806322176234278947)
+23. **Case Study #23**: [Precision Buy Algorithm - View Thread](https://x.com/rauItrades/status/1807859031392018829)
 
 This section contains detailed Twitter threads that illustrate various instances of "Singular Point Hard Stop Order" executed in real-time. These threads provide insights into the specific moments and conditions under which these algorithms are triggered, showcasing their effectiveness in the live market:
 
