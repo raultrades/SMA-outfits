@@ -182,6 +182,7 @@ This section details the SMA outfits and associated parameters, covering the wid
 | 28/57/114/228/456/911 (911) | World Trade Center homage
 | 16/31/63/125/250/500 (2000) | Russia's president seat year 2000
 | 28/56/112/224/448/976 (7) | People's Republic of China Chair
+| 25/50/100/200/400/600 (25) | France's president seat
 
 
 ### SMA Outfit Timeframes
