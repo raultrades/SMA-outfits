@@ -6,10 +6,10 @@ Explicit analysis of SMA outfit (blackbox) use in public equity markets for real
 This repository is organized to provide a comprehensive understanding of SMA (Simple Moving Average) outfits and their direct impact on market dynamics. Each directory contains specific resources tailored to different aspects of SMA analysis:
 
 ### SMA_Analysis/
-  - **Introduction.md**: Provides an overview of the SMA analysis conducted.
-  - **Overview.md**: Prepares reader with necessary background knowledge.
-  - **Methodology.md**: Explains the methods and analytical techniques used.
-  - **Background_and_Research.md**: Discusses the theoretical underpinnings and historical context of the SMA strategies.
+  - **Introduction**: Provides an overview of the SMA analysis conducted.
+  - **Overview**: Prepares reader with necessary background knowledge.
+  - **Methodology**: Explains the methods and analytical techniques used.
+  - **Background_and_Research**: Discusses the theoretical underpinnings and historical context of the SMA strategies.
 
 ### Technical_Explanation/
   - **Executive_Definitions.md**: Summarizes key trading strategies and operational definitions used in SMA outfits. Detailed definitions on arbitrage terms such as Precision Buying Algorithm, Automated Short Order, Darkpool, Institutional Trading Hours, and Signal Generation can be found here.
