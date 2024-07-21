@@ -177,7 +177,8 @@ This section details the SMA outfits and associated parameters, covering the wid
 | 18/36/72/144/288/576 (144(0) | Time
 | 25/51/101/202/404/808 (404) | Resource missing
 | 29/57/114/227/455/911 (45) | U.S. president seat
-| (23/46/92/184/368/736 (46) | U.S. president seat
+| 23/46/92/184/368/736 (46) | U.S. president seat
+| 24/47/94/188/376/752 (47) | U.S. president seat
 | 28/56/112/224/448/896 (56) | U.S. speaker of the house seat
 | 28/57/114/228/456/911 (911) | World Trade Center homage
 | 16/31/63/125/250/500 (2000) | Russia's president seat year 2000
