@@ -278,6 +278,41 @@ This table lists (and is not limited to) the ticker symbols first, followed by t
 | TBT    | ProShares UltraShort 20+ Year Treasury |
 | TNX    | 10-Year Treasury Note Yield |
 
+## The Systems
+
+This section provides context for the array of systems that contribute to the organization of the major market.
+
+### Overview
+
+Equity vehicles utilize every SMA outfit. The primary influence that enables wealth firms to adjust equities higher and lower are called “Systems”. This includes the S&P 500, NASDAQ, and Dow Jones Industrial on their respective midterm charts. None of the SMA outfits are specific to any vehicle; it is important to note that protocols exist specifically for the SPX 30M [10/50/200], IXIC 20M/30M [20/100/250], and DJI 15M/1H [30/60/90/300/600/900]. These are reflected as midterm trend based algorithms for buying and selling protocols on the S&P 500, NASDAQ, and Dow Jones.
+
+These singular baseline SMA functions lack utility without access to the broader machinations that operate price action. This is because the system's effectiveness is not limited to a single protocol. Other Parameter Limitations and Precision Buy Algorithms play a critical role in structuring public equities. These additional factors contribute to a push-and-pull dynamic, effectively creating a 'fill in the bucket' game between various equity vehicles. The incorporation of Precision Buying Algorithms are executed to gamify and manage these interactions, ensuring a more sophisticated and coordinated public market.
+
+### Defining the Systems
+
+#### The S&P 500 - 10/50/200
+The first and unequivocal SMA outfit is the 10/50/200 combination, known in the industry as 'The System.' This outfit is proprietary to the SPX, the index that measures the stock performance of the largest 500 companies listed on U.S. stock exchanges, and is applied to the SPX's 30-minute chart. This generalized parameter gauge sets the stage for the S&P 500's midterm buying and selling operations. There is substantial evidence that the real-time significance of buying/selling/short operations occurs when the S&P is either positive or negative.
+
+A positive S&P 500 indicates that the MA10 trades above the MA50, while a negative S&P indicates that the MA10 trades below the MA50. During heightened volatility, such as a rising volatility index, these parameters shift to a candle close with price stimulation above the MA50 or liquidation below the MA50.
+
+#### The NASDAQ - 20/100/250
+The second SMA outfit introduces an escalation of complexity. This outfit, proprietary to the NASDAQ, is selected for the IXIC, which reflects the Nasdaq composite. During periods of overperformance and underperformance, the NASDAQ alternates between the 20-minute chart and the 30-minute chart. Wealth managers have organized this configuration as a nod to the NASDAQ's first proprietary SMA integer, 20. The bifurcation, or branching of a second timeframe, is the product of a cryptographic practice as a nod to innovation and structure.
+
+A positive NASDAQ indicates that the MA20 trades above the MA100, while a negative NASDAQ indicates that the MA20 trades below the MA100. During heightened volatility, such as a rising volatility index, these parameters shift to a candle close with price stimulation above the MA100 or liquidation below the MA100.
+
+#### The Dow Jones Industrial -30/60/90/300/600/900
+The third SMA outfit is proprietary to the Dow Jones Industrial index (DJI). The positive and negative system functions are operated on the 15-minute and 1-hour charts. This configuration reflects the U.S. institutional hour session, which operates for 6 hours and 30 minutes, or 390 minutes. This protocol also serves as a nod to the significance of both time and the number three in public equities. The utility of both timeframes enables wealth firms to strategically structure and budget according to specific time requirements.
+
+A positive Dow Jones Industrial indicates that the MA90 trades above the MA300, while a negative Dow Jones indicates that the MA90 trades below the MA300. During heightened volatility, such as a rising volatility index, these parameters shift to a candle close with price stimulation above the MA300 or liquidation below the MA300.
+
+
+### Added Context
+
+When the S&P 500 hits its MA200, the NASDAQ reaches its MA250, and the Dow Jones hits its MA900, these movements serve as key determinants of market outcomes, indicating recoveries or downturns.
+
+When any of these systems are negative, the largest wealth firms are reaping profits, and some are shorting the market. As the S&P 500 is negative, the lack of structure results in massive liquidation events. No firm steps in before major institutions like JPM, BoA, Wells Fargo, BlackRock, and Citadel unless they are providing liquidity. U.S. stock market crashes only happen when the S&P 500's SPX is negative.
+
+
 ### Note
 This work does not allow for any utility without the application of abject precision in arbitrage detection. The entire framework of U.S. equity markets operates specifically on the precision of these arbitrage detections and the outlined parameters. Any market activity outside of this defined scope is fundamentally based on guessing or unoptimized approaches, not supported by the actual framework of the public equity markets.
 
