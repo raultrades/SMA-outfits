@@ -382,6 +382,7 @@ This section contains detailed Twitter threads that illustrate various instances
 
 1. **Case Study #1**: [Automated Short Orders - View Thread](https://x.com/rauItrades/status/1806754622008389809)
 2. **Case Study #2**: [Automated Short Orders - View Thread](https://x.com/rauItrades/status/1811111465740554585)
+3. **Case Study #3**: [Automated Short Orders - View Thread](https://x.com/rauItrades/status/1828533657545638205)
 
 This section contains detailed Twitter threads that illustrate various instances of "Optimized Buying Algorithms" executed in real-time. These threads provide insights into the specific moments and conditions under which these algorithms are triggered, showcasing their effectiveness in the live market:
 
