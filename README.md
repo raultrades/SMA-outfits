@@ -191,6 +191,7 @@ This section details the SMA outfits and associated parameters, covering the wid
 | 16/31/63/125/250/500 (2000) | Russia's president seat year 2000
 | 28/56/112/224/448/976 (7) | People's Republic of China Chair
 | 25/50/100/200/400/600 (25) | France's president seat
+| 26/52/106/211/422/844 (211) | SVIX
 
 
 ### SMA Outfit Timeframes
