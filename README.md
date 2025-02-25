@@ -397,7 +397,8 @@ This section contains detailed Twitter threads that illustrate various instances
 5. **Case Study #5**: [Optimized Buying Algorithm - View Thread](https://x.com/rauItrades/status/1832092949821419752)
 6. **Case Study #6**: [Optimized Buying Algorithms - View Thread](https://x.com/rauItrades/status/1833869111249830387)
 7. **Case Study #7**:[Optimized Buying Algorithm - View Thread](https://x.com/rauItrades/status/1837202985765531734)
-8. **Case Study #8**: [Optimized Buyign Algorithm - View Thread](https://x.com/rauItrades/status/1878828879642779906)
+8. **Case Study #8**: [Optimized Buying Algorithm - View Thread](https://x.com/rauItrades/status/1878828879642779906)
+9. **Case Study #9**: [Optimized Buying Algorithm - View Thread](https://x.com/rauItrades/status/1884973416471839009)
 
 
 This is a non-exhaustive list of digestible threads published from the researcher publicly documenting arbitrage selections in real time.
