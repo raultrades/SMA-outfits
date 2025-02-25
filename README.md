@@ -390,15 +390,16 @@ This section contains detailed Twitter threads that illustrate various instances
 
 This section contains detailed Twitter threads that illustrate various instances of "Optimized Buying Algorithms" executed in real-time. These threads provide insights into the specific moments and conditions under which these algorithms are triggered, showcasing their effectiveness in the live market:
 
-1. **Case Study #1**:  [Optimized Buying Algorithms - View Thread](https://x.com/rauItrades/status/1735328921116434754)
+1. **Case Study #1**: [Optimized Buying Algorithms - View Thread](https://x.com/rauItrades/status/1735328921116434754)
 2. **Case Study #2**: [Optimized Buying Algorithms - View Thread](https://x.com/rauItrades/status/1821944746127831132)
 3. **Case Study #3**: [Optimized Buying Algorithm - View Thread](https://x.com/rauItrades/status/1826614964129554523)
 4. **Case Study #4**: [Optimized Buying Algorithm - View Thread](https://x.com/rauItrades/status/1828864244819095888)
 5. **Case Study #5**: [Optimized Buying Algorithm - View Thread](https://x.com/rauItrades/status/1832092949821419752)
 6. **Case Study #6**: [Optimized Buying Algorithms - View Thread](https://x.com/rauItrades/status/1833869111249830387)
-7. **Case Study #7**:[Optimized Buying Algorithm - View Thread](https://x.com/rauItrades/status/1837202985765531734)
-8. **Case Study #8**: [Optimized Buying Algorithm - View Thread](https://x.com/rauItrades/status/1878828879642779906)
-9. **Case Study #9**: [Optimized Buying Algorithm - View Thread](https://x.com/rauItrades/status/1884973416471839009)
+7. **Case Study #7**: [Optimized Buying Algorithms - View Thread](https://x.com/rauItrades/status/1837202985765531734)
+8. **Case Study #8**: [Optimized Buying Algorithms - View Thread](https://x.com/rauItrades/status/1878828879642779906)
+9. **Case Study #9**: [Optimized Buying Algorithms - View Thread](https://x.com/rauItrades/status/1884973416471839009)
+10. **Case Study #10**: [Optimized Buying Algorithms - View Thread](https://x.com/rauItrades/status/1887521789670269384)
 
 
 This is a non-exhaustive list of digestible threads published from the researcher publicly documenting arbitrage selections in real time.
