@@ -468,7 +468,7 @@ Contributions to document further research are welcome. Please review `CONTRIBUT
 
 ### Future Updates and Contributions
 - **Transparency and Organization**: The researcher is committed to regularly updating the repository, but each update will undergo a thorough legal review process to ensure compliance with current regulations. Updates will be scheduled and detailed in the repository only after receiving the necessary legal clearances to maintain transparency.
-- **Planned Updates**: We aim to update sections of this repository immidiately upon legal review, subject to legal clearance. These updates will incorporate new insights and feedback from the contributor, ensuring that the repository remains current while adhering strictly to legal and ethical standards.
+- **Planned Updates**: We aim to update sections of this repository immediately upon legal review, subject to legal clearance. These updates will incorporate new insights and feedback from the contributor, ensuring that the repository remains current while adhering strictly to legal and ethical standards.
 
 
 ## Licensing
