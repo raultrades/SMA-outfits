@@ -377,30 +377,61 @@ This section contains detailed Twitter threads that illustrate various instances
 31. **Case Study #31** [Precision Buy Algorithm - View Thread](https://x.com/rauItrades/status/1841185720612110398)
 32. **Case Study #32** [Precision Buy Algorithm - View Thread](https://x.com/rauItrades/status/1842195776489066924)
 33. **Case Study #33** [Precision Buy Algorithm - View Thread](https://x.com/rauItrades/status/1877047004276080858)
+34. **Case Study #34** [Precision Buy Algorithm - View Thread](https://x.com/rauItrades/status/1876730644643877321)
+35. **Case Study #35** [Precision Buy Algorithm - View Thread](https://x.com/rauItrades/status/1877047004276080858)
+36. **Case Study #36** [Precision Buy Algorithm - View Thread](https://x.com/rauItrades/status/1925629925949579475)
+37. **Case Study #37** [Precision Buy Algorithm - View Thread](https://x.com/rauItrades/status/1932867631956263205)
+38. **Case Study #38** [Precision Buy Algorithm - View Thread](https://x.com/rauItrades/status/1933222790502781333)
+39. **Case Study #39** [Precision Buy Algorithm - View Thread](https://x.com/rauItrades/status/1933558926118969700)
+40. **Case Study #40** [Precision Buy Algorithm - View Thread](https://x.com/rauItrades/status/1937196577145401345)
+41. **Case Study #41** [Precision Buy Algorithm - View Thread](https://x.com/rauItrades/status/1940075634740666865)
+42. **Case Study #42** [Precision Buy Algorithm - View Thread](https://x.com/rauItrades/status/1942221360190943352)
+43. **Case Study #43** [Precision Buy Algorithm - View Thread](https://x.com/rauItrades/status/1943035665417146734)
 
 This section contains detailed Twitter threads that illustrate various instances of "Singular Point Hard Stop Order" executed in real-time. These threads provide insights into the specific moments and conditions under which these algorithms are triggered, showcasing their effectiveness in the live market:
 
 1. **Case Study #1**: [Singular Point Hard Stop Order - View Thread](https://x.com/rauItrades/status/1806729697952465164)
 2. **Case Study #2**: [Singular Point Hard Stop Order - View Thread](https://x.com/rauItrades/status/1811106996160188797)
+3. **Case Study #3**: [Singular Point Hard Stop Order - View Thread](https://x.com/rauItrades/status/1905679351645176076)
+4. **Case Study #4**: [Singular Point Hard Stop Order - View Thread](https://x.com/rauItrades/status/1925556780178055173)
+5. **Case Study #5**: [Singular Point Hard Stop Order - View Thread](https://x.com/rauItrades/status/1929608902343381373)
+6. **Case Study #6**: [Singular Point Hard Stop Order - View Thread](https://x.com/rauItrades/status/1930648319723766134)
+7. **Case Study #7**: [Singular Point Hard Stop Order - View Thread](https://x.com/rauItrades/status/1932466222467285249)
+8. **Case Study #8**: [Singular Point Hard Stop Order - View Thread](https://x.com/rauItrades/status/1932828618344051095)
+9. **Case Study #9**: [Singular Point Hard Stop Order - View Thread](https://x.com/rauItrades/status/1932863224170607030)
+10. **Case Study #10**: [Singular Point Hard Stop Order - View Thread](https://x.com/rauItrades/status/1933520636426793325)
+11. **Case Study #11**: [Singular Point Hard Stop Order - View Thread](https://x.com/rauItrades/status/1933523365807206567)
+12. **Case Study #12**: [Singular Point Hard Stop Order - View Thread](https://x.com/rauItrades/status/1933598128156123641)
+13. **Case Study #13**: [Singular Point Hard Stop Order - View Thread](https://x.com/rauItrades/status/1937512126815641782)
+14. **Case Study #14**: [Singular Point Hard Stop Order - View Thread](https://x.com/rauItrades/status/1937877644076622067)
 
 This section contains detailed Twitter threads that illustrate various instances of "Automated Short Orders" executed in real-time. These threads provide insights into the specific moments and conditions under which these algorithms are triggered, showcasing their effectiveness in the live market:
 
 1. **Case Study #1**: [Automated Short Orders - View Thread](https://x.com/rauItrades/status/1806754622008389809)
 2. **Case Study #2**: [Automated Short Orders - View Thread](https://x.com/rauItrades/status/1811111465740554585)
 3. **Case Study #3**: [Automated Short Orders - View Thread](https://x.com/rauItrades/status/1828533657545638205)
+4. **Case Study #4**: [Automated Short Orders - View Thread](https://x.com/rauItrades/status/1942033479023411515)
 
 This section contains detailed Twitter threads that illustrate various instances of "Optimized Buying Algorithms" executed in real-time. These threads provide insights into the specific moments and conditions under which these algorithms are triggered, showcasing their effectiveness in the live market:
 
 1. **Case Study #1**: [Optimized Buying Algorithms - View Thread](https://x.com/rauItrades/status/1735328921116434754)
 2. **Case Study #2**: [Optimized Buying Algorithms - View Thread](https://x.com/rauItrades/status/1821944746127831132)
-3. **Case Study #3**: [Optimized Buying Algorithm - View Thread](https://x.com/rauItrades/status/1826614964129554523)
-4. **Case Study #4**: [Optimized Buying Algorithm - View Thread](https://x.com/rauItrades/status/1828864244819095888)
-5. **Case Study #5**: [Optimized Buying Algorithm - View Thread](https://x.com/rauItrades/status/1832092949821419752)
+3. **Case Study #3**: [Optimized Buying Algorithms - View Thread](https://x.com/rauItrades/status/1826614964129554523)
+4. **Case Study #4**: [Optimized Buying Algorithms - View Thread](https://x.com/rauItrades/status/1828864244819095888)
+5. **Case Study #5**: [Optimized Buying Algorithms - View Thread](https://x.com/rauItrades/status/1832092949821419752)
 6. **Case Study #6**: [Optimized Buying Algorithms - View Thread](https://x.com/rauItrades/status/1833869111249830387)
 7. **Case Study #7**: [Optimized Buying Algorithms - View Thread](https://x.com/rauItrades/status/1837202985765531734)
 8. **Case Study #8**: [Optimized Buying Algorithms - View Thread](https://x.com/rauItrades/status/1878828879642779906)
 9. **Case Study #9**: [Optimized Buying Algorithms - View Thread](https://x.com/rauItrades/status/1884973416471839009)
 10. **Case Study #10**: [Optimized Buying Algorithms - View Thread](https://x.com/rauItrades/status/1887521789670269384)
+11. **Case Study #11**: [Optimized Buying Algorithms - View Thread](https://x.com/rauItrades/status/1877736761671172278)
+12. **Case Study #12**: [Optimized Buying Algorithms - View Thread](https://x.com/rauItrades/status/1884973416471839009)
+13. **Case Study #13**: [Optimized Buying Algorithms - View Thread](https://x.com/rauItrades/status/1887521789670269384)
+14. **Case Study #14**: [Optimized Buying Algorithms - View Thread](https://x.com/rauItrades/status/1932836814257336587)
+15. **Case Study #15**: [Optimized Buying Algorithms - View Thread](https://x.com/rauItrades/status/1939681230595006602)
+16. **Case Study #16**: [Optimized Buying Algorithms - View Thread](https://x.com/rauItrades/status/1938241569012015183)
+17. **Case Study #17**: [Optimized Buying Algorithms - View Thread](https://x.com/rauItrades/status/1940774997536264255)
+18. **Case Study #18**: [Optimized Buying Algorithms - View Thread](https://x.com/rauItrades/status/1942946413027242243)
 
 
 This is a non-exhaustive list of digestible threads published from the researcher publicly documenting arbitrage selections in real time.
