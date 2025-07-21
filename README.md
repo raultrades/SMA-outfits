@@ -194,6 +194,7 @@ This section details the SMA outfits and associated parameters, covering the wid
 | 26/52/106/211/422/844 (211) | SVIX
 | 24/48/96/192/384/768 (12) | Türkiye president seat
 | 25/50/100/200/400/800 (100) | Alphabet Inc
+| 27/54/108/216/432/864 (432) | Regression
 
 
 ### SMA Outfit Timeframes
