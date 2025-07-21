@@ -193,6 +193,7 @@ This section details the SMA outfits and associated parameters, covering the wid
 | 25/50/100/200/400/600 (25) | France's president seat
 | 26/52/106/211/422/844 (211) | SVIX
 | 24/48/96/192/384/768 (12) | Türkiye president seat
+| 25/50/100/200/400/800 (100) | Alphabet Inc
 
 
 ### SMA Outfit Timeframes
