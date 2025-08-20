@@ -407,6 +407,7 @@ This section contains detailed Twitter threads that illustrate various instances
 12. **Case Study #12**: [Singular Point Hard Stop Order - View Thread](https://x.com/rauItrades/status/1933598128156123641)
 13. **Case Study #13**: [Singular Point Hard Stop Order - View Thread](https://x.com/rauItrades/status/1937512126815641782)
 14. **Case Study #14**: [Singular Point Hard Stop Order - View Thread](https://x.com/rauItrades/status/1937877644076622067)
+15. **Case Study #15**: [Singular Point Hard Stop Order - View Thread](https://x.com/rauItrades/status/1956390689404768587)
 
 This section contains detailed Twitter threads that illustrate various instances of "Automated Short Orders" executed in real-time. These threads provide insights into the specific moments and conditions under which these algorithms are triggered, showcasing their effectiveness in the live market:
 
